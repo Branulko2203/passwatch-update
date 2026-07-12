@@ -1,10 +1,11 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "downloadUrl": "https://nngroup-my.sharepoint.com/:u:/r/personal/dq02mc_insim_biz/Documents/Apps-Release/PassWatchUltimate_(v-1_1_1).zip?csf=1&web=1&e=VDRdJz",
   "changes": [
     "Automatické sťahovanie EdgeDrivera",
     "Opravy Light/Dark režimu",
     "Nová ikona aplikácie",
-    "Vylepšená distribúcia release verzie"
+    "Vylepšená distribúcia release verzie",
+    "Pridaná možnosť upraviť profil a vybrať si avatar"
   ]
 }
