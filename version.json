@@ -1,11 +1,10 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "downloadUrl": "https://nngroup-my.sharepoint.com/:u:/r/personal/dq02mc_insim_biz/Documents/Apps-Release/PassWatchUltimate(version-1.1.4).zip?csf=1&web=1&e=Pf5fgw",
   "changes": [
-    "Pridané vyhľadávanie finančných agentov priamo z interného Power BI reportu",
+    "Pridaná možnosť automatického predvyplnenia ticketu na reset hesla INSIM.BIZ",
     "🤖 Vylepšená Selenium automatizácia",
-    "🧹 Inteligentné filtrovanie výsledkov",
     "🎨 UI/UX vylepšenia",
-    "🔥 Menšia potreba manuálneho dohľadávania údajov v externých systémoch"
+    "🔥 Do Password Generatora je odteraz možné pridať aj vlastné slovo (uloženie do LOCAL AppData)"
   ]
 }
