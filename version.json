@@ -1,7 +1,6 @@
 {
-  "version": "1.1.7",
-  "downloadUrl": "https://nngroup-my.sharepoint.com/:u:/r/personal/dq02mc_insim_biz/Documents/Apps-Release/PassWatchUltimate(version-1.1.6).zip?d=wed30aee7d7a34331aa1625c1277d4444&csf=1&web=1&e=rAUe8L",
+  "version": "1.1.6",
   "changes": [
-   "🔥 Vyhľadávanie cez Corpkey zobrazí aj ďalšie spravované účty užívateľa."
+    "Test OneDrive updatera"
   ]
 }
