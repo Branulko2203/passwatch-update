@@ -1,10 +1,7 @@
 {
-  "version": "1.1.5",
-  "downloadUrl": "https://nngroup-my.sharepoint.com/:u:/r/personal/dq02mc_insim_biz/Documents/Apps-Release/PassWatchUltimate(version-1.1.5).zip?csf=1&web=1&e=4RudA2",
+  "version": "1.1.6",
+  "downloadUrl": "https://nngroup-my.sharepoint.com/:u:/r/personal/dq02mc_insim_biz/Documents/Apps-Release/PassWatchUltimate(version-1.1.6).zip?d=wed30aee7d7a34331aa1625c1277d4444&csf=1&web=1&e=rAUe8L",
   "changes": [
-    "Pridaná možnosť automatického predvyplnenia ticketu na reset hesla INSIM.BIZ",
-    "🤖 Vylepšená Selenium automatizácia",
-    "🎨 UI/UX vylepšenia",
-    "🔥 Do Password Generatora je odteraz možné pridať aj vlastné slovo (uloženie do LOCAL AppData)"
+   "🔥 Vyhľadávanie cez Corpkey zobrazí aj ďalšie spravované účty užívateľa."
   ]
 }
