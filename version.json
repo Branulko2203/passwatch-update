@@ -1,8 +1,10 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.9",
   "changes": [
-    "Pridaný monitoring pobočiek",
-    "Chill Zone",
-    "Fix - automatické predvyplnenie ticketu na EMILKU"
+    "Nová PWU verzia appky prináša Feedback a Chilly Champions!
+ Spätnú väzbu, chyby a návrhy je teraz možné odosielať priamo z PWU vrátane screenshotov a technických informácií.
+
+Chill Zone zároveň dostáva spoločný Chilly Champions leaderboard pre Snake, Tetris, 2048 a Minesweeper. Prekonaj svoj osobný rekord a zisti, kto momentálne vládne Helpdesku. 🏆🐧",
+    
   ]
 }
