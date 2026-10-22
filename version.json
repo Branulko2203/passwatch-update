@@ -1,8 +1,10 @@
 {
-  "version": "1.1.9",
+  "version": "1.2.0",
   "changes": [
-    "Nová PWU verzia appky prináša Feedback a Chilly Champions!",
-    "Spätnú väzbu, chyby a návrhy je teraz možné odosielať priamo z PWU vrátane screenshotov a technických informácií.",
-    "Chill Zone zároveň dostáva spoločný Chilly Champions leaderboard pre Snake, Tetris, 2048 a Minesweeper. Prekonaj svoj osobný rekord a zisti, kto momentálne vládne Helpdesku! 🏆"
+    "PWU 1.2.0 prináša ďalšie vylepšenia stability, výkonu a používateľského komfortu.",
+    "Prebehli optimalizácie monitoringu, notifikácií a interných procesov aplikácie.",
+    "Vylepšený bol Feedback systém vrátane spracovania stavov a zobrazovania oznámení.",
+    "Chill Zone získala viacero technických a vizuálnych vylepšení vrátane plynulejších animácií a modernizácie herného prostredia.",
+    "Opravené boli viaceré chyby nahlásené používateľmi a aplikácia pokračuje v postupnom dolaďovaní detailov."
   ]
 }
