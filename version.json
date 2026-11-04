@@ -1,10 +1,10 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "changes": [
-    "PWU 1.2.0 prináša ďalšie vylepšenia stability, výkonu a používateľského komfortu.",
-    "Prebehli optimalizácie monitoringu, notifikácií a interných procesov aplikácie.",
-    "Vylepšený bol Feedback systém vrátane spracovania stavov a zobrazovania oznámení.",
-    "Chill Zone získala viacero technických a vizuálnych vylepšení vrátane plynulejších animácií a modernizácie herného prostredia.",
-    "Opravené boli viaceré chyby nahlásené používateľmi a aplikácia pokračuje v postupnom dolaďovaní detailov."
+    "PWU 1.2.1 prináša nový prehľad aktívnych a odpojených RDS relácií používateľov vrátane servera, Session ID a aktuálneho stavu.",
+    "Po aktivovaní privilegovaného LSA režimu je možné priamo z aplikácie vykonať Disconnect alebo Logoff relácie iného používateľa.",
+    "Pred každou RDS operáciou PWU opätovne overí správnosť relácie a po úspešnej akcii automaticky obnoví jej aktuálny stav.",
+    "Chill Zone bola rozšírená o Chilly Chess proti lokálnej AI a Snake získal nové typy jabĺk, efekty a achievementy.",
+    "Pripravuje sa integrácia SMS brány a odosielanie správ súvisiacich s resetom hesla priamo z PWU."
   ]
 }
