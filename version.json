@@ -1,10 +1,9 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "changes": [
-    "PWU 1.2.1 prináša nový prehľad aktívnych a odpojených RDS relácií používateľov vrátane servera, Session ID a aktuálneho stavu.",
-    "Po aktivovaní privilegovaného LSA režimu je možné priamo z aplikácie vykonať Disconnect alebo Logoff relácie iného používateľa.",
-    "Pred každou RDS operáciou PWU opätovne overí správnosť relácie a po úspešnej akcii automaticky obnoví jej aktuálny stav.",
-    "Chill Zone bola rozšírená o Chilly Chess proti lokálnej AI a Snake získal nové typy jabĺk, efekty a achievementy.",
-    "Pripravuje sa integrácia SMS brány a odosielanie správ súvisiacich s resetom hesla priamo z PWU."
+    "Správa mailboxových účtov získala prehľadnejší pracovný postup s jasným zvýraznením aktuálne vybraného používateľa.",
+    "Výsledok kontroly mailboxového účtu sa teraz zobrazuje v samostatnej farebnej karte podľa stavu účtu, vrátane informácie o blokácii, chýbajúcich službách alebo úspešnej kontrole.",
+    "Mailboxový alias je po výbere používateľa iba na čítanie, čím sa znižuje riziko vykonania resetu hesla nad nesprávnym účtom.",
+    "Debug konzola sa po otvorení alebo návrate na Mailbox obrazovku automaticky zobrazí v minimalizovanom stave."
   ]
 }
