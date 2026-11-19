@@ -4,6 +4,7 @@
     "Správa mailboxových účtov získala prehľadnejší pracovný postup s jasným zvýraznením aktuálne vybraného používateľa.",
     "Výsledok kontroly mailboxového účtu sa teraz zobrazuje v samostatnej farebnej karte podľa stavu účtu, vrátane informácie o blokácii, chýbajúcich službách alebo úspešnej kontrole.",
     "Mailboxový alias je po výbere používateľa iba na čítanie, čím sa znižuje riziko vykonania resetu hesla nad nesprávnym účtom.",
+    "Kontrola mailboxového účtu teraz zobrazuje maximálnu kapacitu schránky, aktuálne využitie, percento zaplnenia a zostávajúce voľné miesto.",
     "Debug konzola sa po otvorení alebo návrate na Mailbox obrazovku automaticky zobrazí v minimalizovanom stave."
   ]
 }
